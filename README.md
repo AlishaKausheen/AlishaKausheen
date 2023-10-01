@@ -60,7 +60,6 @@
 </td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishaKausheen&hide_border=true&layout=compact" align="left" style="width: 100%" />
-![](https://github-readme-streak-stats.herokuapp.com/?user=AlishaKausheen&theme=dark&hide_border=false)<br/>
 </td></tr></table>  
 
 <br/>  
