@@ -18,10 +18,10 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on JavaScript and its framework  
+- 🔭 I’m currently working on JavaScript and everything around 
   
 
-- ⚡ Fun fact: I write poetry in my dreams then forget it the next morning  
+- ⚡ Fun fact: I write poetries in my dreams then forget it the next morning  
 
 
 </td><td valign="top" width="50%">
